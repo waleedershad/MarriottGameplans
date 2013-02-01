@@ -1,0 +1,114 @@
+body{
+font-family:Arial;
+}
+#header{
+width:100%;
+height:100px;
+}
+
+#header img{
+position:absolute;
+right:200px;
+top:20px;
+}
+
+#header h2{
+line-height:100px;
+color:#A4A4A4;
+padding-left:100px;
+}
+
+#header span{
+color:#848484;
+}
+
+#left{
+float:left;
+width:5%;
+height:600px;
+}
+
+#mid{
+float:left;
+width:89%;
+height:700px;
+}
+#right{
+float:left;
+width:5%;
+height:600px;
+}
+
+#footer{
+float:left;
+width:100%;
+height:85px;
+}
+
+#footer p{
+color:black;
+text-align:center;
+font-family:arial;
+}
+
+#content{
+padding:10px;
+}
+
+#content table{
+border:1px black;
+width:100%;
+}
+
+table th{
+background-color:black;
+color:white;
+height:35px;
+}
+
+#table1 td{
+background-color:#BDBDBD;
+border-bottom:1px solid black;
+}
+
+.centeredCell{
+text-align:center;
+}
+
+.leftText{
+text-align:left;
+}
+
+.rightText{
+text-align:right;
+}
+
+#secondTable{
+width:49%;
+float:left;
+background-color:#BDBDBD;
+border-right:1px solid black;
+height:275px;
+}
+#thirdTable{
+width:50.80%;
+float:left;
+background-color:#BDBDBD;
+height:275px;
+}
+#fourthTable{
+width:100%;
+float:left;
+}
+
+#lastTH{
+width:49.85%
+}
+
+table td {
+padding: 5px;
+}
+
+table {
+border-collapse:collapse;
+}
